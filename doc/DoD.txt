@@ -1,0 +1,5 @@
+-de code werkt
+-de code is getest
+-gereviewd  door een of meerdere teamleden
+-voldoed aan conventies 
+-gechecked of het geen merg conflicten veroorzaakt
