@@ -1,0 +1,48 @@
+meer modelen?
+aleen halve
+
+meerdere gebruikers?
+ja, 
+    spelers=team maaken of lid worden maar van een team
+    lijding=uitslagen intiepen maar finaal
+    better kan alleen in C# app
+    speler mag niet op zelf betten
+
+schijds is een speler van een andere team
+
+hoe kom je aan?
+	zal al op pc's zijn 
+	kan offline
+
+teams op een apart pagina?
+	ja 
+
+toernooi aan maken of in een keer of progresief
+
+pagina design ligt aan ons
+
+ze krijgen 50 vsCoin op het begin met acc
+
+moet 18 zijn om te registreeren (gewoon checkbox)
+
+wedstrijd 
+	wie
+	score
+	feld
+	schijds
+	wie wint 
+
+speler
+	naam
+	email
+	wacht
+	team
+
+hoe krijg je te zien dat je wint
+	start bedrag
+	wat je erin hebt gezet
+	saldo
+
+
+simp uitslag 
+uitslagen op C# app
